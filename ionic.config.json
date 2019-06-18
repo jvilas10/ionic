@@ -1,7 +1,0 @@
-{
-  "name": "rrts",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
-}
