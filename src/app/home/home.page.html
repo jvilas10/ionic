@@ -1,0 +1,68 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>
+      Home
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  
+    <ion-row class="home-card">
+      <ion-col size="6">
+        <ion-card (click)='searchForLoad()'>
+          <ion-img src="/assets/search_for_load.svg"></ion-img>
+          <ion-card-header>
+            <ion-card-subtitle>Search for a Load</ion-card-subtitle>
+          </ion-card-header>
+        
+        </ion-card>
+      </ion-col>
+      <ion-col size="6">
+          <ion-card (click)='terminalDetails()'>
+          <ion-img src="/assets/terminal_details.svg"></ion-img>
+          <ion-card-header>
+    
+            <ion-card-subtitle>Terminal Details</ion-card-subtitle>
+          </ion-card-header>
+     
+        </ion-card>
+      </ion-col>
+      <ion-col size="6">
+        <ion-card  (click)='myDocuments()'>
+          <ion-img src="/assets/my_documents.svg"></ion-img>
+          <ion-card-header>
+    
+            <ion-card-subtitle>My Documents</ion-card-subtitle>
+          </ion-card-header>
+       
+        </ion-card>
+      </ion-col>
+      <ion-col size="6">
+        <ion-card  (click)='suggestedApps()'>
+          <ion-img src="/assets/suggested_apps.svg"></ion-img>
+          <ion-card-header>
+           
+            <ion-card-subtitle>Suggested Apps </ion-card-subtitle>
+          </ion-card-header>
+    
+        </ion-card>
+      </ion-col>
+      <ion-col size="12">
+        <ion-card (click)='myAssingnedLoads()'>
+          <ion-img src="/assets/assigned_loads.svg"></ion-img>
+          <ion-card-header>
+            <ion-card-subtitle>My Assingned Loads</ion-card-subtitle>
+           
+          </ion-card-header>
+      
+        </ion-card>
+      </ion-col>
+  
+     
+    </ion-row>
+   
+</ion-content>

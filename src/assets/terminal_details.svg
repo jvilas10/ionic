@@ -1,0 +1,23 @@
+<svg width="70px" height="58px" viewBox="0 0 70 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Home-Screen" transform="translate(-228.000000, -135.000000)" stroke-width="2.5">
+            <g id="Group-10" transform="translate(185.000000, 97.000000)">
+                <g id="Group-4" transform="translate(35.000000, 39.000000)">
+                    <g id="Group-12" transform="translate(10.000000, 0.000000)">
+                        <polyline id="Stroke-1" stroke="#004987" points="20.768 28 9.25857778 33.0139142 0 53.1273681 16.6183111 45.8766991 33 55 33 45.2833137"></polyline>
+                        <path d="M21,35 L17,46" id="Stroke-3" stroke="#004987" stroke-linecap="round"></path>
+                        <polyline id="Stroke-4" stroke="#004987" points="45.2945778 28 56.7404444 33.0989019 66 53.1346885 49.3816889 45.9123636 33 55"></polyline>
+                        <path d="M45,35 L49,46" id="Stroke-6" stroke="#004987" stroke-linecap="round"></path>
+                        <g id="Group-11" transform="translate(19.000000, 0.000000)" stroke="#7D9FC2">
+                            <path d="M26.0574107,13.411186 C26.0574107,20.440814 13.4908393,41.8764419 13.4908393,41.8764419 C13.4908393,41.8764419 9.35087189,34.8140851 5.82356309,27.4674703 C3.20566143,22.0149522 0.925232143,16.4058556 0.925232143,13.411186 C0.925232143,6.38155814 6.54991071,0.683232558 13.4908393,0.683232558 C20.4308036,0.683232558 26.0574107,6.38155814 26.0574107,13.411186 Z" id="Stroke-7"></path>
+                            <path d="M19.9910893,14.0528118 C19.9910893,18.0436477 17.0799107,21.2798372 13.4908393,21.2798372 C9.90080357,21.2798372 6.99155357,18.0436477 6.99155357,14.0528118 C6.99155357,10.0619759 9.90080357,6.82793023 13.4908393,6.82793023 C17.0799107,6.82793023 19.9910893,10.0619759 19.9910893,14.0528118 Z" id="Stroke-9"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
